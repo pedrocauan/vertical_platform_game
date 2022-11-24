@@ -14,3 +14,6 @@ Jogo de plataforma vertical
 1. [ ] Horizontal Camera Panning
 1. [ ] Vertical Camera Panning
 
+Projeto feito seguindo o tutorial abaixo: 
+
+## https://www.youtube.com/watch?v=rTVoyWu8r6g
