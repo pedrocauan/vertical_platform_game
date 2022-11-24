@@ -1,9 +1,8 @@
 # vertical_platform_game
 Jogo de plataforma vertical
 
-1. [ ] Project Setup
-1. [ ] Domain Setup
-1. [ ] Gravity
+1. [X] Project Setup
+1. [X] Gravity
 1. [ ] Player Moviment
 1. [ ] Background Sprite   
 1. [ ] Collision Blocks   
