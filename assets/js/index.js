@@ -1,9 +1,9 @@
 const canvas = document.querySelector("canvas")
 const c = canvas.getContext("2d")
 
-canvas.width = 1024
-canvas.height = 576
-let gravity = 0.5
+canvas.width = 1024 // largura da tela
+canvas.height = 576 //altura da tela
+let gravity = 0.5 // gravidade do player
 
 class Player {
     constructor(position) {
